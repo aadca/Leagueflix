@@ -1,0 +1,113 @@
+body {
+    color: white;
+    background: black
+}
+
+header {
+    padding: 5px;
+    border: 3px white;
+    font-family: Stencil Std, fantasy;
+    font-size: 28px;
+    color: #e7ba0c;
+}
+
+.video1:hover {
+
+border: 1px solid #e7ba0c;
+
+}
+
+.poros {
+    background: rgba(0, 0, 80, 0.452);
+    color: rgb(255, 255, 255);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.mono {
+
+    color: #e7ba0c
+}
+
+h1 {
+
+font-size: 60px;
+color: #e7ba0c;
+
+}
+
+.texto1 {
+    text-align: center;
+    font-weight: 500;
+    font-family: "Bungee Inline", sans-serif;
+    font-style: normal;
+    padding-top: 40px;
+    width: 50%;
+}
+
+.texto1 p {
+color: whitesmoke;
+}
+
+.poro {
+    border-radius: 100%;
+    justify-content: center;
+    background: #e7bb0c63;
+    display: flex;
+    padding-top: 80px;
+    height: 250px;
+}
+
+.videos {
+    display: flex;
+    overflow-x: auto;
+}
+
+.videos img {
+
+opacity: 0.5;
+
+}
+
+.videos img:hover {
+
+opacity: 1.0;
+border: 1px solid #e7ba0c;
+
+}
+
+img {
+    height: 200px;
+}
+
+.texto {
+    margin-right: 5%;
+}
+
+.leagueoflegends {
+display: flex;
+justify-content: center;
+}
+
+.leagueoflegends img {
+    width: 200px;
+    height: auto;
+    opacity: 0.5;
+}
+
+.neekogif {
+
+    display: flex;
+    justify-content: center;
+    }
+    
+    .neekogif img {
+        width: 100px;
+        height: auto;
+        opacity: 1.5;
+    }
